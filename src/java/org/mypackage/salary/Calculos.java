@@ -7,7 +7,7 @@ package org.mypackage.salary;
 
 /**
  *
- * @author Usuario
+ * 
  */
 public class Calculos {
  private String name;
